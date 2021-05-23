@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "372854861999",
+    "project_id": "lupin-f753c",
+    "storage_bucket": "lupin-f753c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372854861999:android:ce658dfa55d8974717245a",
+        "android_client_info": {
+          "package_name": "com.kimbeseat.lupin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372854861999-057d6nrpjcou9e03hu6aajcvug6hdd3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kimbeseat.lupin",
+            "certificate_hash": "9a570597f6f0967d12122452e029a27e495a18fb"
+          }
+        },
+        {
+          "client_id": "372854861999-r4jjcs1d67q01puaqua64fk8efemtf6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpbkFojRpYvQD3nrq1YRJSbepZI8xQ8Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372854861999-r4jjcs1d67q01puaqua64fk8efemtf6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
